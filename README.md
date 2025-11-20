@@ -58,11 +58,11 @@ Para compilar este projeto (no Wokwi ou na IDE Arduino), instale:
 
 ### Circuito no Wokwi
 
-<img>
+<img src="https://github.com/user-attachments/assets/1ef21a8a-0b88-4600-8d6c-ef99a6f5b6c4" alt="Circuito no Wokwi" width="400px">
 
 ### Dashboard Node-RED
 
-<img>
+<img src="https://github.com/user-attachments/assets/615840bf-c09d-47e9-9f72-d63d0f09ee15" alt="Dashboard Node-RED" width="400px">
 
 ---
 
